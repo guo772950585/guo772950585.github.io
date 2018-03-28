@@ -1,0 +1,49 @@
+# Basic
+title: Gavin
+subtitle: 要做的事情总找得出时间和机会；不愿意做的事情也总能找得出借口
+welcome_message: <a href="http://guo772950585.github.io" target="_blank">Talk is cheap show me the code</a>
+description: Action is the only road to knowledge.
+creator: <a href="http://guo772950585.github.io">@Gavin</a>
+
+url: "http://guo772950585.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    - {title: Projects, description: My Projects, url: 'https://github.com/guo772950585'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: 1005055324487314
+    github: guo772950585
+    # twitter: onevcat
+    gplus: 111425822140611858623
+    mail: guo772950585@163.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
